@@ -1,0 +1,23 @@
+body {
+    color: black;
+}
+
+.calculadora {
+    background: black;
+    border: black;
+    text-align: center;
+    margin: .0 auto;
+    width: 300px;
+    height: 300px;
+}
+
+.nost {
+    width: 285px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.btn {
+    boder: black;
+    background: white;
+}
